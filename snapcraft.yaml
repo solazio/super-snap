@@ -1,8 +1,8 @@
-name: toto-fran
+name: super-snap
 version: '0.1'
 summary: The most important snap of the snap universe
 description: |
-  This snap will be THE snap that will change everything
+  This snap will be THE snap that will change everything, and more...
 parts:
   my-part:
     # See 'snapcraft plugins'
